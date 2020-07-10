@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 📫 How to reach me: @dennysaurio
+- 🔭 I’m currently working on a video conference system, soccer management and stories sharing
 <!--
 **dennysq/dennysq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
